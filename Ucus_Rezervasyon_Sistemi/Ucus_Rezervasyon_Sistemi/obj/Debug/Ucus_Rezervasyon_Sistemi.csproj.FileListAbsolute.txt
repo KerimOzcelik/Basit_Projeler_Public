@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\bin\Debug\Ucus_Rezervasyon_Sistemi.exe.config
+C:\Users\ASUS\source\repos\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\bin\Debug\Ucus_Rezervasyon_Sistemi.exe
+C:\Users\ASUS\source\repos\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\bin\Debug\Ucus_Rezervasyon_Sistemi.pdb
+C:\Users\ASUS\source\repos\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.Form1.resources
+C:\Users\ASUS\source\repos\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.exe
+C:\Users\ASUS\source\repos\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.pdb
